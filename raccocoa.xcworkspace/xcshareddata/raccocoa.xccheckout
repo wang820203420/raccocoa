@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>470F42FE-8CB2-40CC-BF66-F227A53BD03E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>raccocoa</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFEBEDB71F28A90DC9104289568CDAAF7C39A74F</key>
+		<string>/Users/zhisu/Desktop/raccocoa</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>raccocoa.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFEBEDB71F28A90DC9104289568CDAAF7C39A74F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>/Users/zhisu/Desktop/raccocoa</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFEBEDB71F28A90DC9104289568CDAAF7C39A74F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFEBEDB71F28A90DC9104289568CDAAF7C39A74F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>raccocoa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
